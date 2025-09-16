@@ -1,6 +1,6 @@
 # Template- HTML 3 version included 
 
-# យើងអាចយើង template នេះសម្រាប់ធ្វើជា​ Admin page បាន !!
+# យើងអាចយក template នេះសម្រាប់ធ្វើជា​ Admin page បាន !!
 
   #### 📫 How to reach me:
 
