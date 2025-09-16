@@ -1,0 +1,32 @@
+<?php
+// Variables
+return [
+  "creatorName" => "Pixinvent",
+  "creatorUrl" => "https://pixinvent.com",
+  "templateName" => "រៀនអាយធី",
+  "templateSuffix" => "Bootstrap Admin Template",
+  "templateVersion" => "3.0.0",
+  "templateFree" => false,
+  "templateDescription" => "Start your development with a Dashboard for Bootstrap 5",
+  "templateKeyword" => "dashboard, bootstrap 5 dashboard, bootstrap 5 design, bootstrap 5",
+  "licenseUrl" => "https://themeforest.net/licenses/standard",
+  "livePreview" => "https://demos.pixinvent.com/vuexy-html-laravel-admin-template/demo-1/",
+  "productPage" => "https://themeforest.net/item/vuexy-vuejs-html-laravel-admin-dashboard-template/23328599",
+  "support" => "https://pixinvent.ticksy.com/",
+  "moreThemes" => "https://themeforest.net/user/pixinvent/portfolio",
+  "ogTitle" => "Vuexy bootstrap Dashboard by Pixinvent",
+  "ogImage" => "https://pixinvent.com/wp-content/uploads/2023/06/vuexy-hero-image.png",
+  "ogType" => "product",
+  "documentation" => "https://demos.pixinvent.com/vuexy-html-admin-template/documentation",
+  "generator" => "",
+  "changelog" => "https://demos.pixinvent.com/vuexy/changelog.html",
+  "repository" => "https://github.com/pixinvent/vuexy-html-laravel-admin-template",
+  "gitRepo" => "vuexy-html-laravel-admin-template",
+  "gitRepoAccess" => "https://tools.pixinvent.com/github/github-access",
+  "githubFreeUrl" => "https://github.com/pixinvent",
+  "facebookUrl" => "https://www.facebook.com/pixinvents/",
+  "twitterUrl" => "https://x.com/pixinvents",
+  "githubUrl" => "https://github.com/pixinvent",
+  "dribbbleUrl" => "https://dribbble.com/pixinvent",
+  "instagramUrl" => "https://www.instagram.com/pixinvents/"
+];
