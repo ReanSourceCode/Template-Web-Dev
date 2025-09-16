@@ -1,22 +1,11 @@
-<p align="center">
-   <a href="https://1.envato.market/vuexy_admin" target="_blank">
-      <img src="https://cdn.pixinvent.com/pi-assets/vuexy/admin-template/logo/logo.png" alt="vuexy-logo" width="40px" height="auto">
-   </a>
-</p>
+#### 📫 How to reach me:
 
-<h1 align="center">
-   <a href="https://1.envato.market/vuexy_admin" target="_blank" align="center">
-      Vuexy - Bootstrap 5 HTML Laravel Admin Template
-   </a>
-</h1>
+[<img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" width="3.5%"/>](https://www.facebook.com/reandocumentary/)  &nbsp; 
+[<img src="https://img.icons8.com/?size=100&id=cs0F7pb81QnM&format=png&color=000000" width="3.5%"/>](https://www.youtube.com/@reandocumentary)  &nbsp; 
+[<img src="https://img.icons8.com/?size=100&id=118640&format=png&color=000000" width="3.5%"/>](https://www.tiktok.com/@reandocumentary/)  &nbsp; 
+[<img src="https://img.icons8.com/?size=100&id=MIMjVKoXINIT&format=png&color=000000" width="3.5%"/>](https://t.me/reandocumentary)  
 
-<p align="center">Most Powerful & Comprehensive Bootstrap 5 HTML Laravel Admin Dashboard Template built for developers!</p>
-
-<p align="center">
-   <a href="https://1.envato.market/vuexy_admin" target="_blank" align="center">
-      <img src="https://cdn.pixinvent.com/pi-assets/vuexy/admin-template/banner/banner.png" alt="Vuexy - HTML Admin Dashboard Template">
-   </a>
-</p>
+  
 
 ## Introduction
 
